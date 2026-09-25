@@ -7,8 +7,24 @@
 </div>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively_Seeking_Opportunities-brightgreen?style=for-the-badge&logo=target" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Availability-Immediate_Joiner-blue?style=for-the-badge&logo=clock" alt="Availability" />
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=tamilmani-m-dev&label=PROFILE%20VIEWS&color=7928CA&style=for-the-badge" alt="Profile Views" />
 </p>
+
+---
+
+### 🎯 Career Objective & Aim
+
+> **Career Objective:**  
+> Ambitious and detail-oriented **Master of Computer Applications (MCA)** graduate seeking an entry-level role as a **Full-Stack Developer (MERN)**, **Data Analyst**, or **Cloud/DevOps Associate**. Eager to apply practical expertise in building resilient web applications, automating cloud infrastructure, and transforming complex raw data into actionable business intelligence. Committed to continuous learning, collaborative problem-solving, and driving organizational success.
+
+#### 🚀 Primary Career Aim & Target Roles
+- 💻 **Software Engineer / Full-Stack MERN Developer**
+- 📊 **Data Analyst / Business Intelligence (BI) Analyst**
+- ☁️ **Cloud Support Associate / Junior DevOps Engineer**
 
 ---
 
@@ -84,8 +100,8 @@
     <img src="https://img.shields.io/badge/Live_Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://tamilmani-m-dev.github.io/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-%23FF5722.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </div>
 
