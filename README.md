@@ -12,25 +12,44 @@
 
 - 🎓 **Master of Computer Applications (MCA)** graduate.
 - 💻 **MERN Stack:** Web application development with React, Node.js, Express, and MongoDB.
-- ☁️ **DevOps & AWS:** Cloud deployment, Docker containers, Linux, and CI/CD basics.
-- 📊 **Data Analysis:** Dashboards and reports using **Power BI**, **Microsoft Excel**, and **SQL**.
-- 🤖 **AI / ML:** Machine learning fundamentals, Python data handling, and AI API integration.
+- ☁️ **Cloud & DevOps:** Cloud deployment with AWS, Docker containerization, Linux, and CI/CD pipelines.
+- 📊 **Data Analytics:** Data visualization and reporting using Power BI, Microsoft Excel, and SQL.
+- 🤖 **AI / ML:** Machine learning fundamentals, Python data pipelines, and AI API integrations.
 
 ---
 
 ### ⚡ Tech Stack & Tools
 
-#### 📊 Data Analysis & BI
-<p align="center">
+#### 📊 Data Analytics & BI
+<p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-#### 🌐 MERN Stack & Cloud DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,aws,docker,linux,git,github,postman" />
+#### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+#### 🌐 MERN Stack Development
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+#### 🤖 AI / ML & Tools
+<p>
+  <img src="https://img.shields.io/badge/AI_%2F_ML-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
